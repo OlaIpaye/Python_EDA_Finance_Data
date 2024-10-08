@@ -26,4 +26,4 @@ The assignment was graded by Federico Benazzo, one of the course instructors. He
 - Python (Pandas library)
 - Google (for research purposes)
 - ChatGPT 4o (for research purposes)
-- Markdown, Git an Github (for project documentary, and file creation)
+- Markdown, Git and Github (for project documentary, and file creation)
