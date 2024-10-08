@@ -14,11 +14,9 @@ in this repository.
 
 **Assignment Outcome:**
 
-The assignment was graded by Federico Benazzo, one of the course instructors. He graded me 9/10 for the assignment
+The assignment was graded by Federico Benazzo, one of the course instructors. He graded me **9/10** for this assignment.
 
-![python eda assignment](<python eda assignment.png>)
-
-## Tools used in this project
+### Tools used in this project
 
 - Jupyter Notebook
 - Python (Pandas library)
