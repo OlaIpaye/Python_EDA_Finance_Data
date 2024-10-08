@@ -2,7 +2,8 @@
 
 This is the first assignment from the **Data Science in Finance with Python Course** I am currently taking, taught by Andrea Baroni of Barclays Bank.
 
-The project code is in the attached file (LTD_DLS_Assignment_One) in this repository.
+The project code is in the attached file - LTD_DLS_Assignment_One - [Check out the project file](https://github.com/OlaIpaye/Python_EDA_Finance_Data/blob/main/LTD_DLS_Assignment_One.ipynb)
+in this repository.
 
 ## Project Description
 
