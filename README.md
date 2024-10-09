@@ -23,7 +23,7 @@ The assignment was graded by Federico Benazzo, one of the course instructors. He
 ### Tools used in this project
 
 - Jupyter Notebook
-- Python (Pandas library, numpy, matplotlib, seaborn)
+- Python libraries (Pandas, Numpy, Matplotlib, Seaborn)
 - Google (for research purposes)
 - ChatGPT 4o (for research purposes)
 - Markdown, Git and Github (for project documentary, and file creation)
